@@ -1,4 +1,4 @@
-module github.com/Software-Engineering-2030/Go-Lang-Guide
+module github.com/Labs-2021/payment-gateway
 
 go 1.17
 
